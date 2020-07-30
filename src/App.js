@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div className="page">
-      <header className="title">What to Cook?</header>
+      <header className="title">What's cooking?</header>
       <form className="search-form" onSubmit={getSearch}>
         <input
           className="search-bar"
